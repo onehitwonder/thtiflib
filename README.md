@@ -1,7 +1,7 @@
 # thtiflib
-parsing Tif files with a pure python library (no external dependencies)
+parsing tif files with a pure python library (no external dependencies)
 
-  - read metadata (Tif-tags) for single or multipage Tif-files
+  - read metadata (tif-tags) for single or multipage tif-files
   - split a multipage tif or save selected pages as a new tif
   - quite easy to use command-line interface
 
