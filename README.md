@@ -24,7 +24,7 @@ print tif.ifds[0]["fields"]["ImageWidth"]
 print tif.ifds[0]["fields"]["ImageLength"]
 
 # split the tif into tifs with 1 page max and save them as test-splitted-.tif
-tif.split(pageperfile=1, basename="test-splitted")
+tif.split(pageperfile=1, basename="test-splitted-")
 
 # save pages 1, 4 and 10 as test-1_4_10.tif
 tif.savepages([1, 4, 10], filename="test-1_4_10.tif")
