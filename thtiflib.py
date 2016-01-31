@@ -2,7 +2,7 @@
 #
 #  thtiflib.py
 #  
-#  Copyright 2016 Thomas Haßler <sithassler@gmail.com>
+#  Copyright 2016 Thomas Haßler
 #  
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Lesser General Public License as published by
