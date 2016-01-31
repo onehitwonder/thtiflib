@@ -115,3 +115,4 @@ if args.savepages:
     tif.savepages(args.savepages, filename=args.outfile+".tif")
     print args.outfile+".tif saved"
 
+tif.close()
